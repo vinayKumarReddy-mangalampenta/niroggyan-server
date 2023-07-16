@@ -160,8 +160,7 @@ const patientPrescriptions = [
   },
   // Add more patients to the array if needed
 ];
-
-console.log(patientsData);
+ 
 
 exports.getAvailableUsers = (req, res) => {
 	const users = patientPrescriptions.map((eachUser) => ({
