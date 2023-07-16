@@ -1,4 +1,4 @@
-const patientsData = [
+const patientPrescriptions = [
   {
     id: 1,
     name: "Joyneel Acharya",
